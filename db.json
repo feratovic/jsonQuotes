@@ -2,15 +2,18 @@
 "quotes":[
     {
       "text": "The Dream Is Free But the Hustle Is Sold Separately",
-      "author": "George Koufalis"
+      "author": "George Koufalis",
+      "type": ["love", "trust" ]
     },
     {
       "text": "Mankind invented the atomic bomb, but no mouse would ever construct a mousetrap.",
-      "author": "Albert Einstein"
+      "author": "Albert Einstein",
+      "type": ["motivational", "trust" ]
     },
     {
       "text": "Talk is cheap. Show me the code.",
-      "author": "Linus Torvalds"
+      "author": "Linus Torvalds",
+      "type": ["love", "life" ]
     }
   ]
 }
